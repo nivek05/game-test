@@ -1,2 +1,2 @@
 # Test React
-Jeu de pendu pour ma fille
+Jeu de pendu pour ma fille :)
